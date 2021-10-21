@@ -6,7 +6,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "chat-app": {
+    "chat-isbel": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
