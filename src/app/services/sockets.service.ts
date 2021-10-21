@@ -17,7 +17,7 @@ export class SocketsService {
   public message$: BehaviorSubject<string> = new BehaviorSubject('');
 
   constructor() { 
-    this.pathBE=this.devBE;
+    this.pathBE=this.prodBE;
   }
 
   setupSocketConnection() {
